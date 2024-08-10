@@ -24,10 +24,10 @@ from datetime import datetime
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
-API_ID = "10738943"
-API_HASH = "da61e3a08b5ac78ce28b4a4cd854aeec"
-BOT_TOKEN = "7063154314:AAE3E5jD3PSrRLvlIyPrWaAqlWiqaGc88KU"
-OWNER_ID = "6771364361"
+API_ID = "28298365"
+API_HASH = "9647ab7fc03a8a93f701a5528b2f206e"
+BOT_TOKEN = "7391048499:AAG65zd1gUvTOePog_4nRYAd_YWsZR9S7yo"
+OWNER_ID = "5536168611"
 SUDO_ID = "6163840192"
 LUCIFER = "5044329488"
 COWNER_ID = "5716978554"
